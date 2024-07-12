@@ -11,6 +11,7 @@ This is a _digital logic design_ project, for Spring 2024.
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
@@ -77,7 +78,7 @@ _you can read more details [here](https://github.com/ZahraAziziGit/simple-vendin
 
 ```plaintext
 simple-vending-machine/
-├── LICENSE
+├── LICENSE.txt
 ├── README.md
 ├── Report (en).pdf
 ├── test_vm.vcd
