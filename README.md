@@ -77,6 +77,7 @@ _you can read more details [here](https://github.com/ZahraAziziGit/simple-vendin
 
 ```plaintext
 simple-vending-machine/
+├── LICENSE
 ├── README.md
 ├── Report (en).pdf
 ├── test_vm.vcd
