@@ -105,9 +105,12 @@ Contributions are welcome! Please follow these steps to contribute:
     ```
 5. **Open a pull request.**
 
+## License
+This project is licensed under the [MIT](https://github.com/ZahraAziziGit/simple-vending-machine?tab=MIT-1-ov-file#) License.
+
 ##
 
 Thank you for checking out the Simple Vending Machine project! If you have any questions or feedback, feel free to reach out.
-##
+
 [Telegram](https://t.me/zahraAziziT)
 E-mail: azizi.zahra.tehran@gmail.com
